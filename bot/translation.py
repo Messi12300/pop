@@ -5,9 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Sorry, This Bot Can Only Be Used In @malayalammoviesdownloader..!
 
-you can't add Me To 🤭🤭🤭
+For Queries, @Fantasyatmebot
 
 For More Details Click Help Button Below..
 @newmoviesottrelease
@@ -17,8 +17,8 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Join my channel
+-> 🤩🤩🤩
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://youtube.com/shorts/gz9GkYu1Wvw?feature=share">Click Me</a></i>
 """
